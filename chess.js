@@ -1,0 +1,1 @@
+document.body.innerHTML="<img src='http://www.modchats.com/user/met4000/WedMar919535620161819.png' style='position: absolute; top: 50%; left: 50%; margin-top: -50px; margin-left: -50px; width: 100px; height: 100px;'>",document.title="Cheeeeeesssssss";
