@@ -1,0 +1,2 @@
+# chess
+Short javascript code
